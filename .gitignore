@@ -1,0 +1,9 @@
+*.json
+.env
+venv
+.venv
+logs
+artifacts
+source
+checkpoint
+*.keras
